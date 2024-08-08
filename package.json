@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/icicles2k/Lifeguard/issues"
   },
-  "homepage": "https://github.com/icicles2k/Lifeguard#readme"
+  "homepage": "https://github.com/icicles2k/Lifeguard#readme",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.5.2",
+    "ms": "^2.1.3"
+  }
 }
